@@ -23,6 +23,7 @@ Kontakt
 
 
 ==
+
 Języki programowania i technologie
 
 💻 C++
@@ -31,6 +32,8 @@ Języki programowania i technologie
 
 🎮 C# (Unity)
 
+
+-------------------------------------------------------------------------------------------------------
 
 
 English Version
@@ -57,6 +60,7 @@ Contact
 
 
 ==
+
 Programming Languages and Technologies
 
 💻 C++
