@@ -28,10 +28,27 @@ Języki programowania i technologie
 
 💻 C++
 
+🔰 Junior (Początkujący) 🔰
+
+Posiadam podstawową wiedzę na temat języka C++.
+Potrafię pisać proste programy z wykorzystaniem podstawowych struktur danych i instrukcji.
+Staram się rozwijać swoje umiejętności poprzez naukę zaawansowanych konceptów języka.
+
 🐍 Python
+
+🔰 Beginner (Początkujący) 🔰
+
+Uczę się języka Python i zdobywam podstawową wiedzę.
+Potrafię pisać proste programy i korzystać z podstawowych struktur danych.
+Chcę rozwijać się w Pythonie i zdobywać nowe umiejętności.
 
 🎮 C# (Unity)
 
+ Beginner (Początkujący) 🔰
+
+Uczę się języka C# i zdobywam podstawową wiedzę.
+Potrafię pisać proste programy wykorzystując podstawowe struktury danych i instrukcje.
+Chcę kontynuować naukę i rozszerzać moje umiejętności w C#.
 
 -------------------------------------------------------------------------------------------------------
 
@@ -65,9 +82,27 @@ Programming Languages and Technologies
 
 💻 C++
 
+🔰 Junior (Beginner) 🔰
+
+I have basic knowledge of the C++ language.
+I can write simple programs using basic data structures and statements.
+I am actively learning advanced concepts of the language.
+
 🐍 Python
 
+🔰 Beginner 🔰
+
+I am learning Python and acquiring foundational knowledge.
+I can write simple programs and work with basic data structures.
+I am eager to develop my skills in Python and learn new techniques.
+
 🎮 C# (Unity)
+
+🔰 Beginner 🔰
+
+I am learning C# and gaining basic knowledge.
+I can write simple programs using basic data structures and statements.
+I aim to continue learning and expanding my skills in C#.
 
 
 Feel free to connect with me and explore the projects I've been working on. Thank you!
