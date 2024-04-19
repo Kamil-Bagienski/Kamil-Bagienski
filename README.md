@@ -26,84 +26,15 @@ Kontakt
 
 Języki programowania i technologie
 
-💻 C++
-
-🔰 Junior (Początkujący) 🔰
-
-Posiadam podstawową wiedzę na temat języka C++.
-Potrafię pisać proste programy z wykorzystaniem podstawowych struktur danych i instrukcji.
-Staram się rozwijać swoje umiejętności poprzez naukę zaawansowanych konceptów języka.
-
-🐍 Python
-
-🔰 Beginner (Początkujący) 🔰
-
-Uczę się języka Python i zdobywam podstawową wiedzę.
-Potrafię pisać proste programy i korzystać z podstawowych struktur danych.
-Chcę rozwijać się w Pythonie i zdobywać nowe umiejętności.
-
-🎮 C# (Unity)
-
- Beginner (Początkujący) 🔰
-
-Uczę się języka C# i zdobywam podstawową wiedzę.
-Potrafię pisać proste programy wykorzystując podstawowe struktury danych i instrukcje.
-Chcę kontynuować naukę i rozszerzać moje umiejętności w C#.
-
--------------------------------------------------------------------------------------------------------
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>GIT</code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>HTML</code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>CSS</code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>JAVA</code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>C++</code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>PYTHON</code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/>PHP</code>
+</div>
 
 
-English Version
-
-Kamil Bagieński's GitHub README
-
-👋 Hello there! Welcome to my GitHub profile. I'm Kamil Bagieński, a second-year Computer Science student with a specialization in programming technology. I'm 31 years old and my interests revolve around martial arts and computer games.
-
-
-About Me
-
-📚 I'm currently pursuing my studies in Computer Science, focusing primarily on programming technology.
-
-💻 I'm currently learning programming languages such as C++ and Python.
-
-🎮 I'm independently expanding my skills in C# with a focus on game development in the Unity environment.
-
-✨ I'm passionate about martial arts and constantly expanding my knowledge in this field.
-
-
-Contact
-
-📧 If you have any questions or would like to get in touch, feel free to reach out to me via email: kamil.bagienski@gmail.com.
-
-
-==
-
-Programming Languages and Technologies
-
-💻 C++
-
-🔰 Junior (Beginner) 🔰
-
-I have basic knowledge of the C++ language.
-I can write simple programs using basic data structures and statements.
-I am actively learning advanced concepts of the language.
-
-🐍 Python
-
-🔰 Beginner 🔰
-
-I am learning Python and acquiring foundational knowledge.
-I can write simple programs and work with basic data structures.
-I am eager to develop my skills in Python and learn new techniques.
-
-🎮 C# (Unity)
-
-🔰 Beginner 🔰
-
-I am learning C# and gaining basic knowledge.
-I can write simple programs using basic data structures and statements.
-I aim to continue learning and expanding my skills in C#.
-
-
-Feel free to connect with me and explore the projects I've been working on. Thank you!
 
