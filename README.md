@@ -9,7 +9,7 @@ O mnie
 
 📚 Studiuję Informatykę na drugim roku, głównie skupiając się na technologii programowania.
 
-💻 Aktualnie uczę się języków programowania takich jak C++ i Python.
+💻 Aktualnie rozwijam się w językach programowania takich jak C++, Java, PHP i Python. Znam podstawy HTML5 i CSS.
 
 🎮 Samodzielnie rozwijam swoje umiejętności związane z C# w kontekście tworzenia gier w środowisku Unity.
 
