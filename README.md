@@ -1,11 +1,11 @@
 
-👋 Cześć! Witaj na moim profilu GitHub. Jestem Kamil Bagieński, student III roku Informatyki o specjalizacji technologia programowania. 
-Mam 32 lata i moje zainteresowania skupiają się głównie wokół sztuk walki i gier komputerowych.
+👋 Cześć! Witaj na moim profilu GitHub. Jestem Kamil Bagieński, inżynier Informatyki o specjalizacji technologia programowania. 
+Mam 33 lata i moje zainteresowania skupiają się głównie wokół sztuk walki i gier komputerowych.
 
 
 O mnie
 
-📚 Studiuję Informatykę na drugim roku, głównie skupiając się na technologii programowania.
+📚 Jestem inżynierem Informatyki, głównie skupiając się na technologii programowania.
 
 💻 Aktualnie rozwijam się w językach programowania takich jak C++, Java, PHP i Python. Znam podstawy HTML5 i CSS.
 
